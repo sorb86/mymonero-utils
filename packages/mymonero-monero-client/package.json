@@ -9,7 +9,7 @@
     "test": "mocha --recursive"
   },
   "devDependencies": {
-    "chai": "^4.3.4",
+    "chai": "^4.3.10",
     "mocha": "^9.2.0"
   },
   "publishConfig": {
